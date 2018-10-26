@@ -16,3 +16,7 @@ markdown_warm_up
 * Update van de foto's
 * Link naar fb
 * Betere informatie van de eigenaar en zo
+
+
+- Ruben lowet
+- Wameedh Ali
